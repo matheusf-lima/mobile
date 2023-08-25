@@ -13,6 +13,8 @@
     --fonte-principal: 'Poppins', sans-serif;
     font-family: var(--fonte-principal);
     --azul: #002F52;
+    --fonte-secundaria: 'Josefin Sans', sans-serif;
+    --preto: #000000;
 }
 
 body {
